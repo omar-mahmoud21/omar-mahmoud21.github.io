@@ -8,11 +8,11 @@
 <img src="images/Dense Cloud.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Herbert Run Hydrology](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Pumpkin Growth Suitability in IL](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
