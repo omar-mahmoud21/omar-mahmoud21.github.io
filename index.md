@@ -9,11 +9,11 @@
 
 ---
 [Herbert Run Hydrology](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/herbert run.jpg?raw=true"/>
 
 ---
 [Pumpkin Growth Suitability in IL](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/growth in IL.jpg?raw=true"/>
 
 ---
 
