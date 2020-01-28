@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Dense Clouds UMBC Campus](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+images/Dense Cloud.jpg
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
