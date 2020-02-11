@@ -4,8 +4,7 @@
 
 
 ### [Dense Clouds UMBC Campus](omar-mahmoud21.github.io/dense_clouds)
-Sentence about this project (Place Holder) update omg why isnt this working
-
+Sentence about this project (Place Holder) 
 [<img src="images/Dense Cloud.jpg?raw=true"/>](omar-mahmoud21.github.io/dense_clouds)
 
 ---
