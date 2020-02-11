@@ -8,7 +8,7 @@
 <img src="images/Dense Cloud.jpg?raw=true"/>
 
 ---
-[Herbert Run Hydrology](/pdf/sample_presentation.pdf)
+[Herbert Run Hydrology](/project_probation/index)
 <img src="images/herbert run.jpg?raw=true"/>
 
 ---
