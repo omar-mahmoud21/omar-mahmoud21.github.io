@@ -1,2 +1,6 @@
+---
 The tools used in this project included NDVI calculations, georefrenceing, and 3d model making 
-images/Dense Cloud.jpg
+
+<img src="images/Dense Cloud.jpg?raw=true"/>
+
+---
