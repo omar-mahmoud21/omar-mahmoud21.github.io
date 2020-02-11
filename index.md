@@ -2,9 +2,8 @@
 
 ---
 
-### Category Name 1 
 
-[Dense Clouds UMBC Campus](/images/index)
+### [Dense Clouds UMBC Campus](/images/index)
 Sentence about this project (Place Holder)
 <img src="images/Dense Cloud.jpg?raw=true"/>
 
