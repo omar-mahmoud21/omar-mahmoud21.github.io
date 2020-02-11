@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Dense Clouds UMBC Campus](/project_probation/index)
+[Dense Clouds UMBC Campus](/images/index)
 <img src="images/Dense Cloud.jpg?raw=true"/>
 
 ---
-[Herbert Run Hydrology](/project_probation/index)
+[Herbert Run Hydrology](/images/index)
 <img src="images/herbert run.jpg?raw=true"/>
 
 ---
