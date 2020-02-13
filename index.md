@@ -5,7 +5,7 @@
 
 ### [Dense Clouds UMBC Campus](omar-mahmoud21.github.io/dense_clouds)
 Sentence about this project (Place Holder) update  
-[text](omar-mahmoud21.github.io/dense_clouds)
+(omar-mahmoud21.github.io/dense_clouds)
 
 ---
 [Herbert Run Hydrology](/images/index)
