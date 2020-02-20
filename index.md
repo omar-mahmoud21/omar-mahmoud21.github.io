@@ -4,8 +4,9 @@
 
 
 ### [Dense Clouds UMBC Campus](omar-mahmoud21.github.io/dense_clouds)
-Sentence about this project (Place Holder) update  
-[(omar-mahmoud21.github.io/dense_clouds)]<img src="images/Dense Cloud.jpg?raw=true"/>
+Sentence about this project (Place Holder)
+
+<img src="images/Dense Cloud.jpg?raw=true"/>
 
 ---
 [Herbert Run Hydrology](/images/index)
@@ -26,19 +27,10 @@ Sentence about this project (Place Holder) update
 - [Project 5 Title](http://example.com/)
 
 ---
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+
 
 
 
 ---
-<!-- p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
